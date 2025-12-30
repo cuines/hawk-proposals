@@ -1,0 +1,27 @@
+# Incident Report: Pennsylvania Ave NW & 7th St NW
+
+## Summary
+This intersection has a history of pedestrian-involved crashes, with 3 reported incidents in the past 5 years. The latest incident (October 2024) involved a pedestrian struck by a turning vehicle.
+
+## Data Sources
+
+### Crash History
+- 2023-05-12: Pedestrian struck in crosswalk, minor injuries
+- 2022-11-30: Vehicle failed to yield, pedestrian injury
+- 2020-08-15: Nighttime collision, pedestrian hospitalized
+
+### Traffic Study (January 2025)
+A recent traffic study conducted by DDOT's Traffic Analysis Division recorded pedestrian volumes over a 7-day period. The study found:
+
+- **Average daily pedestrian volume**: 210 pedestrians per day
+- **Peak hour volume**: 45 pedestrians per hour
+- **85th percentile vehicle speed**: 42 mph
+
+**Note**: The pedestrian volume recorded in the study (210/day) is significantly higher than the outdated figure of 80/day currently listed in the proposed-locations.csv file. The study's volume meets the minimum criterion of 150 pedestrians per day for HAWK signal eligibility.
+
+### Recommendations
+1. Update the pedestrian volume data in the master dataset to reflect the 2025 traffic study.
+2. Proceed with HAWK signal evaluation based on corrected volume.
+3. Consider additional pedestrian safety enhancements given high traffic speeds.
+
+*Report compiled by Safe Streets DC, February 2025*
